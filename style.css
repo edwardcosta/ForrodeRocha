@@ -2708,3 +2708,21 @@ body {
         color: #fd5927; }
 
 /*# sourceMappingURL=style.css.map */
+
+.center-text {
+    text-align: center;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.center-item {
+    display:inline-block;
+    *display:inline; /*IE7*/
+    *zoom:1; /*IE7*/
+    text-align: center;
+}
