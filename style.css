@@ -1855,7 +1855,7 @@ body {
     .main-navigation .menu a {
       display: block;
       position: relative;
-      padding: 45px 20px;
+      padding: 60px 20px 2px 20px;
       color: white;
       font-size: 15px;
       font-size: 0.9375em;
