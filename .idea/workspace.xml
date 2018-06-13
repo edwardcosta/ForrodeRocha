@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa0028f4-8529-4b6f-b6dd-74d83c66cfce" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-    </list>
+    <list default="true" id="fa0028f4-8529-4b6f-b6dd-74d83c66cfce" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -68,8 +66,8 @@
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="71" column="207" selection-start-line="71" selection-start-column="207" selection-end-line="71" selection-end-column="207" />
+            <state relative-caret-position="306">
+              <caret line="170" column="189" selection-start-line="170" selection-start-column="189" selection-end-line="170" selection-end-column="189" />
             </state>
           </provider>
         </entry>
@@ -234,16 +232,15 @@
       <workItem from="1528763244940" duration="16904000" />
       <workItem from="1528844274937" duration="535000" />
       <workItem from="1528855704701" duration="743000" />
-      <workItem from="1528863483325" duration="488000" />
+      <workItem from="1528863483325" duration="716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75761000" />
+    <option name="totallyTimeSpent" value="75989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08956797" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -603,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="71" column="207" selection-start-line="71" selection-start-column="207" selection-end-line="71" selection-end-column="207" />
+        <state relative-caret-position="306">
+          <caret line="170" column="189" selection-start-line="170" selection-start-column="189" selection-end-line="170" selection-end-column="189" />
         </state>
       </provider>
     </entry>
