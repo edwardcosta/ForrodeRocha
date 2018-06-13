@@ -2,97 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0028f4-8529-4b6f-b6dd-74d83c66cfce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/band.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/band.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-1@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-2@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-3@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-4@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/featured-image-5@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-10@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-11@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-12@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-1@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-2@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-3@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-4@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-5@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-6@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-7@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-8@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/gallery-9@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/large-gallery/gallery-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/logo@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/logo@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/medium-image-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/medium-image-1@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/medium-image-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/medium-image-2@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/medium-image-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/medium-image-3@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/post-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/post-image@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/slide-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/slide-1@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/slide-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/slide-2@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/slide-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/slide-3@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-1@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-2@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-3@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-4@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-5@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-6@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-7@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dummy/thumbnail-8@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thanks.html" beforeDir="false" afterPath="$PROJECT_DIR$/thanks.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="527">
+              <caret line="79" column="17" lean-forward="true" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -140,26 +50,26 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="153">
               <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+            <state relative-caret-position="2363">
+              <caret line="139" column="173" selection-start-line="139" selection-start-column="173" selection-end-line="139" selection-end-column="173" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="340">
+              <caret line="71" column="207" selection-start-line="71" selection-start-column="207" selection-end-line="71" selection-end-column="207" />
             </state>
           </provider>
         </entry>
@@ -232,12 +142,12 @@
         <option value="$PROJECT_DIR$/thank_you.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/js/app.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/error.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/thanks.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -324,30 +234,32 @@
       <workItem from="1528763244940" duration="16904000" />
       <workItem from="1528844274937" duration="535000" />
       <workItem from="1528855704701" duration="743000" />
+      <workItem from="1528863483325" duration="488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75273000" />
+    <option name="totallyTimeSpent" value="75761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08956797" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08956797" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32928178" />
-      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.32890365" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32928178" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37458563" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32890365" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -649,7 +561,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="153">
           <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
@@ -658,20 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -691,8 +589,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        <state relative-caret-position="2363">
+          <caret line="139" column="173" selection-start-line="139" selection-start-column="173" selection-end-line="139" selection-end-column="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="79" column="17" lean-forward="true" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="71" column="207" selection-start-line="71" selection-start-column="207" selection-end-line="71" selection-end-column="207" />
         </state>
       </provider>
     </entry>
