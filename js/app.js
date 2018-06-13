@@ -3,15 +3,8 @@
 	$(document).ready(function(){
 
 		$("[data-background]").each(function(){
-			var retina = window.devicePixelRatio > 1;
 			var bg = $(this).data("background");
-			if( retina ){
-				var retinabg = bg.replace(".jpg","@2x.jpg");
-				$(this).css("background-image","url("+retinabg+")");	
-			} else{
-				$(this).css("background-image","url("+bg+")");
-			}
-			
+            $(this).css("background-image","url("+bg+")");
 		});
 
 		$("[data-bg-color]").each(function(){

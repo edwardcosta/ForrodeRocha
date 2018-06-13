@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76503004-5"></script>
+	<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-76503004-5');
+	</script>
+
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
@@ -27,7 +37,7 @@
 	<header class="site-header">
 		<div class="container">
 			<a href="index.html" id="branding">
-				<img src="dummy/logo.png" alt="Site Title">
+				<img width="128px" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Flogo_header.png?alt=media&token=2b2c912f-73ec-404b-ae53-27e723849c58" alt="Forró de Rocha">
 			</a> <!-- #branding -->
 
 			<nav class="main-navigation">
@@ -47,81 +57,65 @@
 		<div class="fullwidth-block gallery">
 			<div class="container">
 				<div class="content fullwidth">
-					<h2 class="entry-title">Galeria</h2>
-					<div class="filter-links filterable-nav">
-						<select class="mobile-filter">
-							<option value="*">Todas</option>
-							<option value=".concert">Apreentações</option>
-							<option value=".band">Banda</option>
-							<option value=".stuff">Stuff</option>
-							<option value=".video">Video</option>
-						</select>
-                        <a href="#" class="current" data-filter="*">Todas</a>
-						<a href="#" data-filter=".concert">Apresentações</a>
-						<a href="#" data-filter=".band">Banda</a>
-						<a href="#" data-filter=".stuff">Stuff</a>
-                        <a href="#" data-filter=".video">Video</a>
-					</div>
+					<h2 class="entry-title">Mais fotos em breve...</h2>
 					<div class="filterable-items">
-						<div class="filterable-item concert">
-							<a href="dummy/large-gallery/gallery-1.jpg"><figure><img src="dummy/gallery-1.jpg" alt="gallery 1"></figure></a>
+						<div class="filterable-item photo">
+                            <img id="myImg1" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2F01.jpg?alt=media&token=a0e0446f-bdb1-470e-8e1f-555c0fa27c4f" alt="001">
 						</div>
-						<div class="filterable-item concert">
-							<a href="dummy/large-gallery/gallery-2.jpg"><figure><img src="dummy/gallery-2.jpg" alt="gallery 2"></figure></a>
+						<div class="filterable-item photo">
+                            <img id="myImg2" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20091.JPG?alt=media&token=209eddc7-91f7-4fc2-8026-7d79ccacb8d4" alt="091">
 						</div>
-						<div class="filterable-item stuff">
-							<a href="dummy/large-gallery/gallery-3.jpg"><figure><img src="dummy/gallery-3.jpg" alt="gallery 3"></figure></a>
-						</div>
-						<div class="filterable-item concert">
-							<a href="dummy/large-gallery/gallery-4.jpg"><figure><img src="dummy/gallery-4.jpg" alt="gallery 4"></figure></a>
-						</div>
-						<div class="filterable-item band">
-							<a href="dummy/large-gallery/gallery-5.jpg"><figure><img src="dummy/gallery-5.jpg" alt="gallery 5"></figure></a>
-						</div>
-						<div class="filterable-item stuff">
-							<a href="dummy/large-gallery/gallery-6.jpg"><figure><img src="dummy/gallery-6.jpg" alt="gallery 6"></figure></a>
-						</div>
-						<div class="filterable-item concert">
-							<a href="dummy/large-gallery/gallery-7.jpg"><figure><img src="dummy/gallery-7.jpg" alt="gallery 7"></figure></a>
-						</div>
-						<div class="filterable-item band">
-							<a href="dummy/large-gallery/gallery-8.jpg"><figure><img src="dummy/gallery-8.jpg" alt="gallery 8"></figure></a>
-						</div>
-						<div class="filterable-item band">
-							<a href="dummy/large-gallery/gallery-9.jpg"><figure><img src="dummy/gallery-9.jpg" alt="gallery 9"></figure></a>
-						</div>
-						<div class="filterable-item stuff">
-							<a href="dummy/large-gallery/gallery-10.jpg"><figure><img src="dummy/gallery-10.jpg" alt="gallery 10"></figure></a>
-						</div>
-						<div class="filterable-item band">
-							<a href="dummy/large-gallery/gallery-11.jpg"><figure><img src="dummy/gallery-11.jpg" alt="gallery 11"></figure></a>
-						</div>
-						<div class="filterable-item stuff">
-							<a href="dummy/large-gallery/gallery-12.jpg"><figure><img src="dummy/gallery-12.jpg" alt="gallery 12"></figure></a>
-						</div>
-                        <div class="filterable-item video">
-                            <video controls width="100%" height="auto">
-                                <source src="video/main.mp4" type="video/mp4">
-                                O seu navegador não suporta a tag vídeo
-                            </video>
+                        <div class="filterable-item photo">
+                            <img id="myImg3" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20092.JPG?alt=media&token=52212c6a-f121-4155-8ad5-95d0abf0e59c" alt="092">
                         </div>
-                        <div class="filterable-item video">
-                            <video controls width="100%" height="auto">
-                                <source src="video/main.mp4" type="video/mp4">
-                                O seu navegador não suporta a tag vídeo
-                            </video>
+                        <div class="filterable-item photo">
+                            <img id="myImg4" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20093.JPG?alt=media&token=10c2477c-758b-402a-a7b1-a863928e62d4" alt="093">
+                        </div>
+                        <div class="filterable-item photo">
+                            <img id="myImg5" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20094.JPG?alt=media&token=3fda0fef-82e0-4143-957e-360d446d6c98" alt="094">
+                        </div>
+                        <div class="filterable-item photo">
+                            <img id="myImg6" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20095.JPG?alt=media&token=a84e224b-49fe-4ded-9615-194edf1c6141" alt="095">
+                        </div>
+                        <div class="filterable-item photo">
+                            <img id="myImg7" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20096.JPG?alt=media&token=f90fca3f-1290-497e-9739-874612b7208f" alt="096">
+                        </div>
+                        <div class="filterable-item photo">
+                            <img id="myImg8" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20097.JPG?alt=media&token=1e739f2c-2069-4789-baff-05d467f4b45e" alt="097">
+                        </div>
+                        <div class="filterable-item photo">
+                            <img id="myImg9" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20098.JPG?alt=media&token=daa861ff-8671-44c1-b6da-f406244a19b1" alt="098">
+                        </div>
+                        <div class="filterable-item photo">
+                            <img id="myImg10" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20099.JPG?alt=media&token=3d27619f-c97e-4dff-b792-e0691eebfdfd" alt="099">
+                        </div>
+                        <div class="filterable-item photo">
+                            <img id="myImg11" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Fcanon%20100.JPG?alt=media&token=11fdfd3d-f12d-4b34-834d-65db68138902" alt="100">
                         </div>
 					</div>
 				</div>
 			</div>
 		</div> <!-- .testimonial-section -->
 
+        <!-- The Modal -->
+        <div id="myModal" class="modal">
+
+            <!-- The Close Button -->
+            <span onclick="modal.style.display=null" class="close">&times;</span>
+
+            <!-- Modal Content (The Image) -->
+            <img class="modal-content" id="img01">
+
+            <!-- Modal Caption (Image Text) -->
+            <div id="caption"></div>
+        </div>
+
 
 	</main> <!-- .main-content -->
 
 	<footer class="site-footer">
 		<div class="container">
-			<img src="dummy/logo.png" alt="Site Name">
+			<img width="128px" src="https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Flogo_footer.png?alt=media&token=4f7765e5-4f25-405e-a2c6-c43f9a5730ea" alt="Forró de Rocha">
 
 			<address>
 				<p>Brasília - Brasil<br><a href="tel:+5561999191717">(61) 9 9919-1717</a> <br> <a href="mailto:contato@forroderocha.com">contato@forroderocha.com</a></p>
@@ -138,6 +132,81 @@
 
 </div> <!-- #site-content -->
 
+<script>
+    // Get the modal
+    var modal = document.getElementById('myModal');
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = [];
+    img[0] = document.getElementById('myImg1');
+    img[1] = document.getElementById('myImg2');
+    img[2] = document.getElementById('myImg3');
+    img[3] = document.getElementById('myImg4');
+    img[4] = document.getElementById('myImg5');
+    img[5] = document.getElementById('myImg6');
+    img[6] = document.getElementById('myImg7');
+    img[7] = document.getElementById('myImg8');
+    img[8] = document.getElementById('myImg9');
+    img[9] = document.getElementById('myImg10');
+    img[10] = document.getElementById('myImg11');
+    var modalImg = document.getElementById("img01");
+    var captionText = document.getElementById("caption");
+    img[0].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2F01.jpg?alt=media&token=59041198-554f-45fe-8955-be1f3d73971d';
+        captionText.innerHTML = this.alt;
+    };
+    img[1].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20091.JPG?alt=media&token=c313c89f-b6b4-42e8-848c-53b51ad865fc';
+        captionText.innerHTML = this.alt;
+    };
+    img[2].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20092.JPG?alt=media&token=cbc6eac1-c5c2-4df3-90b4-d49f2a2593cf';
+        captionText.innerHTML = this.alt;
+    };
+    img[3].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20093.JPG?alt=media&token=a6a49730-3ef9-44a8-b192-179a4574880c';
+        captionText.innerHTML = this.alt;
+    };
+    img[4].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20094.JPG?alt=media&token=405a9981-682c-4a2c-8fb9-715fd8b1134c';
+        captionText.innerHTML = this.alt;
+    };
+    img[5].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20095.JPG?alt=media&token=6d5a7920-d052-41a5-8fc3-3a96b0905ff5';
+        captionText.innerHTML = this.alt;
+    };
+    img[6].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20096.JPG?alt=media&token=35bbf304-aea0-406f-aec3-fcc300446601';
+        captionText.innerHTML = this.alt;
+    };
+    img[7].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20097.JPG?alt=media&token=a89fe191-c691-4c7e-b13f-ddbf88dc13e9';
+        captionText.innerHTML = this.alt;
+    };
+    img[8].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20098.JPG?alt=media&token=d4d76a22-ccad-429c-adb5-2aefbc295f29';
+        captionText.innerHTML = this.alt;
+    };
+    img[9].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20099.JPG?alt=media&token=949e71e3-85c5-4dda-9dc0-16c01fb4f45d';
+        captionText.innerHTML = this.alt;
+    };
+    img[10].onclick = function(){
+        modal.style.display = "block";
+        modalImg.src = 'https://firebasestorage.googleapis.com/v0/b/forro-de-rocha.appspot.com/o/WEB%2Fgallery%2Flarge%2Fcanon%20100.JPG?alt=media&token=906e90eb-81ae-4ed2-80e1-27667f802228';
+        captionText.innerHTML = this.alt;
+    };
+</script>
 <script src="js/jquery-1.11.1.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/app.js"></script>
