@@ -2822,6 +2822,46 @@ body {
 
 #myImg11:hover {opacity: 0.7;}
 
+#myImg12 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg12:hover {opacity: 0.7;}
+
+#myImg13 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg13:hover {opacity: 0.7;}
+
+#myImg14 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg14:hover {opacity: 0.7;}
+
+#myImg15 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg15:hover {opacity: 0.7;}
+
+#myImg16 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg16:hover {opacity: 0.7;}
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
